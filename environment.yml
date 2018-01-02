@@ -1,0 +1,7 @@
+name: GMM_PointProcess
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - scipy
+  - jupyter
